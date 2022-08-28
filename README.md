@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaulSaenzJr
-- 👀 I’m interested in web deveolpment
-- 🌱 I’m currently in a full stack web development boot camp
-- 💞️ I’m looking to collaborate on javascript projects
+- 👀 I’m interested in statistics and software development
+- 🌱 I’m currently in a full stack web development boot camp and working towards an AAS in Computer Programming
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me newstarblues@gmail.com
 
 <!---
