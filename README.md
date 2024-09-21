@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaulSaenzJr
 - 👀 I’m interested in statistics and software development
-- 🌱 I’m currently in a full stack web development boot camp and working towards an AAS in Computer Programming
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently in an App Academy Software Engineer boot camp and working towards a Bachelor's in Software Development.
+- 💞️ I’m hoping to learn.
 - 📫 How to reach me raul.saenz2@g.austincc.edu
 
 <!---
